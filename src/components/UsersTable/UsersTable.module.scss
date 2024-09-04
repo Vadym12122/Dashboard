@@ -1,0 +1,12 @@
+.table {
+    display: flex;
+    gap: 130px;
+
+    &__row {
+        background-color: #bcbcbc;
+    }
+
+    &__title {
+        font-size: 24px !important;
+    }
+}
