@@ -16,7 +16,6 @@ import {
     Typography,
 } from "@mui/material";
 
-import classNames from "classnames";
 import styles from "./UsersTable.module.scss";
 
 const UsersTable: React.FC = () => {
